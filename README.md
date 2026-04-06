@@ -6,7 +6,7 @@
 
 **Yinwei Wei**\*, **Xiang Wang**, **Liqiang Nie**, **Xiangnan He**, **Tat-Seng Chua**
 
-\* Corresponding author (weiyinwei at hotmail.com)
+* Corresponding author (weiyinwei at hotmail.com)
 
 ## Links
 
@@ -85,7 +85,7 @@ The instruction of commands has been clearly stated in the codes. Run the follow
 
 `python main.py --l_r=0.0001 --weight_decay=0.001 --dropout=0 --weight_mode=confid --num_routing=3 --is_pruning=False --data_path=Tiktok`
 
-###Movielens Dataset
+### Movielens Dataset
 
 `python main.py --l_r=0.0001 --weight_decay=0.0001 --dropout=0 --weight_mode=confid --num_routing=3 --is_pruning=False`
 
