@@ -4,9 +4,25 @@
 
 ## Authors
 
-**Yinwei Wei**\*, **Xiang Wang**, **Liqiang Nie**, **Xiangnan He**, **Tat-Seng Chua**
+**Yinwei Wei**<sup>1</sup>, **Xiang Wang**<sup>2</sup>, **Liqiang Nie**<sup>1</sup>\*, **Xiangnan He**<sup>3</sup>, **Tat-Seng Chua**<sup>2</sup>
 
-* Corresponding author (weiyinwei at hotmail.com)
+<sup>1</sup> Shandong University, China  
+<sup>2</sup> National University of Singapore, Singapore  
+<sup>3</sup> University of Science and Technology of China, China  
+\* Corresponding author
+
+---
+
+## Table of Contents
+
+- [Updates](#updates)
+- [Introduction](#introduction)
+- [Highlights](#highlights)
+- [Method / Framework](#method--framework)
+- [Installation](#installation)
+- [Dataset / Benchmark](#dataset--benchmark)
+- [Usage](#usage)
+- [License](#license)
 
 ## Links
 
@@ -14,6 +30,7 @@
 - **Code Repository**: [`GitHub`](https://github.com/iLearn-Lab/MM20-GRCN)
 
 ---
+## Method / Framework
 
 ![Framework](framework.png)
 
